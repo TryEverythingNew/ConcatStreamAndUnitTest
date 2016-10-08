@@ -1,0 +1,6 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\bin\Debug\HW5_CS422_Unittest.exe.config
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\bin\Debug\HW5_CS422_Unittest.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\bin\Debug\HW5_CS422_Unittest.pdb
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\obj\Debug\HW5_CS422_Unittest.csprojResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\obj\Debug\HW5_CS422_Unittest.exe
+d:\用户目录\我的文档\visual studio 2015\Projects\HW5_CS422_Unittest\HW5_CS422_Unittest\obj\Debug\HW5_CS422_Unittest.pdb
